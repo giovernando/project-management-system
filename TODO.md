@@ -1,24 +1,24 @@
 # Project Management System TODO
 
 ## 1. Project Structure Setup
-- [ ] Create backend/ and frontend/ folders
-- [ ] Move current React files to frontend/
-- [ ] Initialize Laravel 11 in backend/
+- [x] Create backend/ and frontend/ folders
+- [x] Move current React files to frontend/
+- [x] Initialize Laravel 11 in backend/
 
 ## 2. Backend Setup (Laravel)
-- [ ] Install Laravel dependencies
-- [ ] Configure .env for database
-- [ ] Create migrations for all tables (users, projects, weekly_reports, assets, machines, materials, vendors, finance, payrolls, operations, files)
-- [ ] Create models with relationships
-- [ ] Set up Sanctum for authentication
-- [ ] Create controllers (Auth, Project, Finance, Asset, Vendor, Report, User)
-- [ ] Create policies and middleware for RBAC
-- [ ] Set up API routes
+- [x] Install Laravel dependencies
+- [x] Configure .env for database
+- [x] Create migrations for all tables (users, projects, weekly_reports, assets, machines, materials, vendors, finance, payrolls, operations, files)
+- [x] Create models with relationships
+- [x] Set up Sanctum for authentication
+- [x] Create controllers (Auth, Project, Finance, Asset, Vendor, Report, User)
+- [x] Create policies and middleware for RBAC
+- [x] Set up API routes
 - [ ] Implement file upload and export features
 
 ## 3. Frontend Setup (React)
-- [ ] Update package.json with required dependencies (React Router, Axios, TailwindCSS, React Icons, React Query, Chart.js, React Toastify)
-- [ ] Configure TailwindCSS
+- [x] Update package.json with required dependencies (React Router, Axios, TailwindCSS, React Icons, React Query, Chart.js, React Toastify)
+- [x] Configure TailwindCSS
 - [ ] Create component structure (Sidebar, Navbar, DataTable, etc.)
 - [ ] Create pages (Login, Dashboard, ProjectPage, etc.)
 - [ ] Set up contexts (AuthContext, RoleContext)
