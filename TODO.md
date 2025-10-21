@@ -14,36 +14,36 @@
 - [x] Create controllers (Auth, Project, Finance, Asset, Vendor, Report, User)
 - [x] Create policies and middleware for RBAC
 - [x] Set up API routes
-- [ ] Implement file upload and export features
+- [x] Implement file upload and export features
 
 ## 3. Frontend Setup (React)
 - [x] Update package.json with required dependencies (React Router, Axios, TailwindCSS, React Icons, React Query, Chart.js, React Toastify)
 - [x] Configure TailwindCSS
-- [ ] Create component structure (Sidebar, Navbar, DataTable, etc.)
-- [ ] Create pages (Login, Dashboard, ProjectPage, etc.)
-- [ ] Set up contexts (AuthContext, RoleContext)
-- [ ] Implement routing with protected routes
-- [ ] Create API client with Axios
+- [x] Create component structure (Sidebar, Navbar, DataTable, etc.)
+- [x] Create pages (Login, Dashboard, ProjectPage, etc.)
+- [x] Set up contexts (AuthContext, RoleContext)
+- [x] Implement routing with protected routes
+- [x] Create API client with Axios
 
 ## 4. Authentication & RBAC
-- [ ] Implement JWT login/logout in backend
-- [ ] Set up role-based middleware and policies
-- [ ] Frontend role-based UI hiding
+- [x] Implement JWT login/logout in backend
+- [x] Set up role-based middleware and policies
+- [x] Frontend role-based UI hiding
 
 ## 5. CRUD Features
-- [ ] Implement CRUD for Projects
-- [ ] Implement CRUD for Finance
-- [ ] Implement CRUD for Assets/Inventory
-- [ ] Implement CRUD for Vendors
-- [ ] Implement Reports with file upload
+- [x] Implement CRUD for Projects
+- [x] Implement CRUD for Finance
+- [x] Implement CRUD for Assets/Inventory
+- [x] Implement CRUD for Vendors
+- [x] Implement Reports with file upload
 
 ## 6. Dashboard & UI
-- [ ] Create dashboard with charts and stats
-- [ ] Implement export to Excel/PDF
-- [ ] Add notifications
-- [ ] Make responsive design
+- [x] Create dashboard with charts and stats
+- [x] Implement export to Excel/PDF
+- [x] Add notifications
+- [x] Make responsive design
 
 ## 7. Testing & Deployment
-- [ ] Test all features
-- [ ] Run both frontend and backend
-- [ ] Verify RBAC permissions
+- [x] Test all features
+- [x] Run both frontend and backend
+- [x] Verify RBAC permissions
